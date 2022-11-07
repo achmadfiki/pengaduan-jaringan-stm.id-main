@@ -1,0 +1,10 @@
+ADMIN
+----------
+fiki123
+fiki1234
+
+USER / Intansi
+----------
+falah123
+falah1234
+
